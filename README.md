@@ -60,12 +60,13 @@ const dickrael = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dickrael&show_icons=true&theme=transparent&title_color=f7971e&icon_color=00c6ff&text_color=ffffff&border_color=f7971e&border_radius=12&hide_border=false&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dickrael&theme=github_dark" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dickrael&theme=transparent&ring=f7971e&fire=ff6b35&currStreakLabel=f7971e&sideLabels=00c6ff&dates=aaaaaa&border=f7971e&border_radius=12" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dickrael&layout=compact&theme=transparent&title_color=f7971e&text_color=ffffff&border_color=f7971e&border_radius=12&langs_count=8&hide_border=false" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dickrael&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dickrael&theme=github_dark" />
 </p>
 
 ---
@@ -73,15 +74,11 @@ const dickrael = {
 ### 🌅 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dickrael&bg_color=0d1117&color=f7971e&line=00c6ff&point=ff6b35&area=true&area_color=f7971e&hide_border=false&border_color=f7971e&radius=8&custom_title=Commits%20over%20time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dickrael&theme=github_dark" />
 </p>
 
----
-
-### 🏆 Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dickrael&theme=onestar&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=false" />
+  <img src="https://ghchart.rshah.org/f7971e/dickrael" alt="dickrael's contribution chart" />
 </p>
 
 ---
