@@ -18,21 +18,28 @@
 
 ---
 
-<img align="right" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDV6eGZhcTZzM3h1dDhxZnZwbGppZjM5ZGd5NHhneW1ocXg2ZTlodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RbDKaczqWovIugyJmW/giphy.gif" />
-
 ### 🌊 About me
+
+<table>
+<tr>
+<td valign="top" width="65%">
 
 ```js
 const dickrael = {
   location:  "Nigeria 🇳🇬",
   vibe:      "beach | sun | build",
   focus:     ["web", "content", "tools"],
-  currently: "shipping lazez.uz 🚀",
+  currently: "building in public 🚀",
   fun_fact:  "I code better with waves in the background 🌊",
 };
 ```
 
-<br clear="right"/>
+</td>
+<td valign="middle" align="center" width="35%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDV6eGZhcTZzM3h1dDhxZnZwbGppZjM5ZGd5NHhneW1ocXg2ZTlodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RbDKaczqWovIugyJmW/giphy.gif" width="180" />
+</td>
+</tr>
+</table>
 
 ---
 
